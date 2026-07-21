@@ -1,2 +1,25 @@
-# batch-creation-automation
-Python automation tool for generating Amazon moderation batch files from raw CSV datasets.
+# Batch Creation Automation Tool
+
+## Overview
+
+## Business Problem
+
+## Solution
+
+## Features
+
+## Technologies Used
+
+## Project Workflow
+
+## Folder Structure
+
+## Installation
+
+## Usage
+
+## Sample Output
+
+## Future Improvements
+
+## Author

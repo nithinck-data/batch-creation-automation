@@ -75,44 +75,7 @@ This automation streamlines the complete workflow by:
 
 ## Workflow
 
-```
-Raw CSV Files
-        │
-        ▼
-Scan Input Folder
-        │
-        ▼
-Select Workflow (KW / Oculus)
-        │
-        ▼
-Select Marketplace
-        │
-        ▼
-Read CSV using Pandas
-        │
-        ▼
-Validate Mandatory Fields
-        │
-        ▼
-Extract & Clean Data
-        │
-        ▼
-Apply Business Rules
-        │
-        ▼
-Generate Output CSV
-```
 <img width="1024" height="1536" alt="ChatGPT Image Jul 21, 2026, 04_34_00 PM" src="https://github.com/user-attachments/assets/488dce58-e304-43e6-9fae-ca3c6099bec0" />
-
-
-
-Example:
-
-```markdown
-![Workflow](images/workflow.png)
-```
-
----
 
 ## Supported Workflows
 

@@ -102,8 +102,9 @@ Apply Business Rules
         ▼
 Generate Output CSV
 ```
+<img width="1024" height="1536" alt="ChatGPT Image Jul 21, 2026, 04_34_00 PM" src="https://github.com/user-attachments/assets/488dce58-e304-43e6-9fae-ca3c6099bec0" />
 
-> **Tip:** Replace the workflow section above with the workflow image from your design document after uploading it to the repository.
+
 
 Example:
 
